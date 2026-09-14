@@ -8,6 +8,7 @@ spec:
     - name: dockerconfig-ws
   params:
     - name: build-image
+    - name: app-name
     - name: repo-url
     - name: branch
       default: main
